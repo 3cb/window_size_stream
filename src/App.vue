@@ -14,7 +14,7 @@ export default {
     return {
       win: {
         size: null,
-        type: "FullHD"
+        type: null
       },
       windowListener: {
         next: value => {
