@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h4>Shrink the Window</h4>
     <h1>{{ win.type }}</h1>
     <h4>Width: {{ win.size }}</h4>
   </div>
